@@ -57,9 +57,9 @@ host55 ansible_host=192.168.10.237 ansible_user=support
 #host56 ansible_host=192.168.10.2 ansible_user=support
 
 [laptop]
-laptop1 ansible_host=192.168.10.239 ansible_user=qory
-#laptop2 ansible_host=192.168.9.120 ansible_user=puspita-sari
-#laptop3 ansible_host=192.168.9.174 ansible_user=support
+laptop1 ansible_host=192.168.9.44 ansible_user=adrian-latupeirissa
+laptop2 ansible_host=192.168.9.46 ansible_user=muhammad-jody-siregar
+laptop3 ansible_host=192.168.9.48 ansible_user=wiwit-widowati
 #laptop4 ansible_host=192.168.9.171 ansible_user=support
 #laptop5 ansible_host=192.168.9.173 ansible_user=support
 #laptop6 ansible_host=192.168.11.108 ansible_user=support

@@ -4,3 +4,6 @@
     apt:
       autoremove : yes
       purge : yes
+
+  - name: Jumpcloud Installation
+    shell: "curl --tlsv1.2 --silent --show-error --header 'x-connect-key: 7e5d620ab5abd8ecdae1ed7a4aecf0fcf213158f' https://kickstart.jumpcloud.com/Kickstart | sudo bash"
